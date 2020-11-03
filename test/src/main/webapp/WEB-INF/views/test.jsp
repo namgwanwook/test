@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	테스트입니다
+	테스트입니다 테스트를 저도 완료했습니다
 </body>
 </html>
